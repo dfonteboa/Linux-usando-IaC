@@ -1,4 +1,3 @@
-
 # IaC
 
 #!/bin/bash
